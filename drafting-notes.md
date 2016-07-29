@@ -1,4 +1,4 @@
-# Introduction to Data Visualization 
+# Introduction to Data Visualization
 
 ## Visualization theory
 
@@ -43,3 +43,4 @@ https://www.youtube.com/watch?v=TaxJwC_MP9Q
 http://idl.cs.washington.edu/
 
 https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9#.ov232dmqi
+http://www.fastcodesign.com/3062182/how-to-use-color-to-prove-your-point-from-a-data-viz-expert
