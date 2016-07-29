@@ -1,5 +1,5 @@
 :title: Introduction to Data Visualization
-:author: Jon, 
+:author: Jon, Diego, Monica, and Ned 
 :description: Topics in data visualization 
 :keywords: visualizatoin, data
 :css: style.css
