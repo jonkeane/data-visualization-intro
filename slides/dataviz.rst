@@ -1,5 +1,5 @@
 :title: Introduction to Data Visualization
-:author: Jon, Diego, Monica, and Ned 
+:author: Jon, Diego, Kris, Monica, and Ned 
 :description: Topics in data visualization 
 :keywords: visualizatoin, data
 :css: style.css
@@ -202,6 +202,22 @@ Axis truncation
 
 .. image:: images/truncateY.jpg
 	:height: 650px
+
+----
+
+If you have to put numbers...
+=============================
+
+You've failed womp. womp.
+
+----
+
+If you are using area as en encoding
+====================================
+
+Make sure you're actually using area and not height/width 
+
+Even the white house go this one wrong...
 
 ----
 
