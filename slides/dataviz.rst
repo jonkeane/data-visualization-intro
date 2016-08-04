@@ -46,8 +46,124 @@ Visual encoding
 
 ----
 
+Bars, bars everywhere!
+======================
 
-perception and visualization
+.. image:: images/carrier-origin-bars.png
+	:height: 650px
+
+----
+
+Better...
+======================
+
+.. image:: images/carrier-origin-dots.png
+	:height: 650px
+
+----
+
+
+Arrival delays
+======================
+
+.. image:: images/arr-delay-line.png
+	:height: 650px
+
+----
+
+Now with SEs!
+======================
+
+.. image:: images/arr-delay-ribbon.png
+	:height: 650px
+
+----
+
+Maybe bars are better?
+======================
+
+.. image:: images/arr-delay-bar.png
+	:height: 650px
+
+----
+
+
+Now with more SEs!
+======================
+
+.. image:: images/arr-delay-bar-error.png
+	:height: 650px
+
+----
+
+Closer... what happened??
+=========================
+
+.. image:: images/arr-delay-boxplot.png
+	:height: 650px
+
+----
+
+Violin plots
+======================
+
+.. image:: images/arr-delay-violin.png
+	:height: 650px
+
+----
+
+Zoomed in (use caution!)
+==========================
+
+.. image:: images/arr-delay-violin-cropped.png
+	:height: 650px
+
+----
+
+
+Departure delays
+======================
+
+.. image:: images/dep-delay.png
+	:height: 650px
+
+----
+
+
+Whoa there!
+======================
+
+.. image:: images/dep-delay-color.png
+	:height: 650px
+
+----
+
+Facets! (aka small multiples)
+=============================
+
+.. image:: images/dep-delay-facet.png
+	:height: 650px
+
+----
+
+In case we care about time more
+===============================
+
+.. image:: images/dep-delay-facet-other.png
+	:height: 650px
+
+----
+
+And with the power of facets...
+===============================
+
+.. image:: images/dep-delay-origin-facet.png
+	:height: 650px
+
+----
+
+
+Perception and visualization
 ============================
 Within the bar bias
 http://www.ncbi.nlm.nih.gov/pubmed/22648655
@@ -62,11 +178,44 @@ http://www.perceptualedge.com/articles/08-21-07.pdf (no pie charts)
 
 ----
 
+How big is the bigger circle?
+=============================
 
-good to do
+.. image:: images/circleAreas.png
+	:height: 650px
+	
+.. note:: Truth: 16, estimates usually range from 4-50
+
+----
+
+
+Good to do
 ==========
-Small multiples
 
+...and terrible to don't
+
+----
+
+
+Axis truncation
+===============
+
+.. image:: images/truncateY.jpg
+	:height: 650px
+
+----
+
+
+Small multiples
+===============
+
+(time vs. coarticulation plot)
+
+----
+
+demos
+==========
+ 
 ----
 
 Visualization in Python with MatPlotLib
@@ -93,5 +242,7 @@ References
 * Visual encoding http://global.qlik.com/us/blog/posts/patrik-lundblad/visual-encoding
 * Viridis https://www.youtube.com/watch?v=xAoljeRJ3lU
 * Within the bar bias http://www.ncbi.nlm.nih.gov/pubmed/22648655
+* Data viz trifecta: http://junkcharts.typepad.com/junk_charts/junk-charts-trifecta-checkup-the-definitive-guide.html
 
 ----
+
