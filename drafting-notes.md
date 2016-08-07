@@ -44,3 +44,8 @@ http://idl.cs.washington.edu/
 
 https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9#.ov232dmqi
 http://www.fastcodesign.com/3062182/how-to-use-color-to-prove-your-point-from-a-data-viz-expert
+
+Lies, context, etc.
+http://cs.usfca.edu/~apjoshi/cs686/lectures/Graphical_Integrity.pdf
+
+http://www.perceptualedge.com/articles/08-21-07.pdf (no pie charts)

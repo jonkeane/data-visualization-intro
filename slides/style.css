@@ -56,3 +56,35 @@ a {
 .hidden {
     display: none;
 }
+
+
+table {
+  margin: auto;
+}
+
+td:nth-child(even) {
+  background: #FFF;
+  padding-right: 75px;
+}
+
+th:nth-child(even) {
+  background: #FFF;
+  padding-right: 75px;
+}
+
+td:nth-child(odd) {
+  background: #DDD;
+}
+
+th:nth-child(odd) {
+  background: #DDD;
+}
+
+td {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+th {
+  border-bottom: 1px solid black;
+}
