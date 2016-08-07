@@ -53,6 +53,11 @@ nycflights13::flights %>% filter(carrier %in% c("AA", "DL", "WN", "UA", "VX", "B
 ggsave("dep-delay-facet.png", height = 650/150, width = 800/150, device = "png")
 
 nycflights13::flights %>% filter(carrier %in% c("AA", "DL", "WN", "UA", "VX", "B6")) %>%
+  ggplot() + aes(x=hour(time_hour), y=dep_delay) + geom_smooth() + facet_grid(carrier~.) + xlab("time of day")
+ggsave("dep-delay-facet-other.png", height = 650/150, width = 800/150, device = "png")
+
+
+  nycflights13::flights %>% filter(carrier %in% c("AA", "DL", "WN", "UA", "VX", "B6")) %>%
   ggplot() + aes(x=hour(time_hour), y=dep_delay) + geom_smooth() + facet_grid(origin~carrier) + xlab("time of day")
 ggsave("dep-delay-origin-facet.png", height = 650/150, width = 800/150, device = "png")
 

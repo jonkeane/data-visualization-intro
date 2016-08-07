@@ -33,9 +33,19 @@ ul {
 
 li {
     font-weight: normal;
-    padding-left: 0.3em;
-    line-height: 1.8em;
+    padding-left: 0em;
+    line-height: 1.25em;
+    margin-bottom: 10px;
     text-align: left;
+}
+
+dd {
+    margin: 0px;
+}
+
+dl {
+    margin-top: 5px;
+    margin-bottom: 0px;
 }
 
 a {
