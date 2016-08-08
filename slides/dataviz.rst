@@ -537,7 +537,91 @@ Monica+Jon
 
 Visualization in Javascript with d3
 ===================================
-Diego+Kris
+
+https://d3js.org/
+
+.. image:: images/d3_home.png
+	:width: 750px
+
+
+data driven documents using web standards
+=========================================
+
+D3 is an open source JS library for manipulating documents
+to create web visualizations 
+based on data using:
+
+*  HTML, 
+*  SVG, 
+*  and CSS. 
+
+
+---
+
+Scalable Vector Graphics 
+===================================
+
+.. image:: images/svg_example.png
+	:width: 750px
+
+SVG Circle and other types 
+===================================
+.. image:: images/svg_example2.png
+	:width: 232px
+
+**Other types:**
+
+* Rectangle <rect>
+* Circle <circle>
+* Ellipse <ellipse>
+* Line <line>
+* Polyline <polyline>
+* Polygon <polygon>
+* Path <path>
+
+----
+
+Data-driven approach to DOM manipulation.
+=========================================
+
+D3 allows you to bind arbitrary data to a **Document Object Model (DOM)**, 
+
+and then apply data-driven transformations to the document. 
+
+
+.. image:: images/d3_select_light_blue.png
+	:width: 750px
+
+Example: Mexico Choropleth Map
+==============================
+Using:
+
+* `Mexico Map (municipality level) <http://bl.ocks.org/mbostock/9265674>`_
+
+* `Choropleth <http://bl.ocks.org/mbostock/4060606>`_
+
+
+With sample csv file:
+
+.. image:: images/sample_csv.png
+	:width: 550px
+
+To make:
+
+* `Mexico Map with Data <http://diegoolano.com/d3-talk/mexico-map-with-data.html>`_
+
+
+----
+
+d3 links
+===================================
+- Examples: https://github.com/d3/d3/wiki/Gallery
+- More Examples: http://bl.ocks.org/mbostock
+
+- Maps in D3: https://bost.ocks.org/mike/map/
+- Understanding Enter, Update, and Exit: https://bost.ocks.org/mike/circles/
+
+
 
 ----
 
