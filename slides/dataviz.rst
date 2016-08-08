@@ -634,6 +634,7 @@ d3 links
 
 - Maps in D3: https://bost.ocks.org/mike/map/
 - Understanding Enter, Update, and Exit: https://bost.ocks.org/mike/circles/
+- Treelapse: http://krisrs1128.github.io/treelapse_expers/index.html
 - dimple: https://dimplejs.org
 
 
