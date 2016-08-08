@@ -592,6 +592,9 @@ and then apply data-driven transformations to the document.
 .. image:: images/d3_select_light_blue.png
 	:width: 750px
 
+.. image:: images/d3_select_with_data.png
+	:width: 750px
+
 Example: Mexico Choropleth Map
 ==============================
 Using:
@@ -610,8 +613,15 @@ To make:
 
 * `Mexico Map with Data <http://diegoolano.com/d3-talk/mexico-map-with-data.html>`_
 
-
 ----
+
+Example: Texas Arts
+===================
+
+.. image:: images/texas_arts.png
+	:width: 750px
+
+
 
 d3 links
 ===================================
