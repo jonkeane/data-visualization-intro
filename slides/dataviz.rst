@@ -1,7 +1,7 @@
 :title: Introduction to Data Visualization
 :author: Jon, Diego, Kris, Monica, and Ned
 :description: Topics in data visualization
-:keywords: visualizatoin, data
+:keywords: visualization, data
 :css: style.css
 :data-transition-duration: 500
 
@@ -80,6 +80,14 @@ These are all the same!
 +-----------------------------+-------------------+
 |Linear regression line       |y = 3.00 + 0.500x  |
 +-----------------------------+-------------------+
+
+----
+
+Anscombe's quartet
+==========================
+
+.. image:: images/Anscombes_quartet.svg
+	:width: 750px
 
 ----
 
