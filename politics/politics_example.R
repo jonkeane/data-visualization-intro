@@ -16,7 +16,7 @@ head(d)
 
 ## let's try and plot total number of words in speech
 
-p <- ggplot(d, aes(year, words)) 
+p <- ggplot(d, aes(x = year, y = words)) 
 p
 
 # add some points
@@ -40,7 +40,9 @@ p
 
 p <- ggplot(d, aes(year, words)) + 
   geom_point(aes(color= party)) + 
-  scale_color_manual(name = "Party", values = c("Democrat" = 'blue', "Republican" = 'red'))
+  scale_color_manual(name = "Party", 
+                     values = c("Democrat" = 'blue', 
+                                "Republican" = 'red'))
 p
 
 # add a title and fix the axis labels
