@@ -609,9 +609,13 @@ With sample csv file:
 .. image:: images/sample_csv.png
 	:width: 550px
 
-To make:
+Sample Mexico Map using CSV data
+================================ 
 
 * `Mexico Map with Data <http://diegoolano.com/d3-talk/mexico-map-with-data.html>`_
+
+.. image:: images/mexico_map.png
+	:width: 750px
 
 ----
 
@@ -630,7 +634,7 @@ d3 links
 
 - Maps in D3: https://bost.ocks.org/mike/map/
 - Understanding Enter, Update, and Exit: https://bost.ocks.org/mike/circles/
-
+- dimple: https://dimplejs.org
 
 
 ----
